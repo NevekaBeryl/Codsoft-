@@ -1,9 +1,11 @@
 # Codsoft-
 Virtual internship tasks<br>
 
-Module  Used:<br>
-  Random - To get random combination of strings.<br>
-  String - Constants defined in string are ascii_letters(both uppercase and lowercase),digits,punctuations.
+# Python Programming
+Tasks Completed:<br>
+    1. Random Password Generator<br>
+    2. Quizz game<br>
+    3. Weather forecast<br>
 
-GUI :
-  Tkinter - It is beginner and user friendly GUI.
+# GUI used is TKINTER 
+
