@@ -5,6 +5,7 @@ import random,string
 root = Tk()
 root.title("Password Generator")
 root.geometry("600x600")
+root.config(background = '#ffe39f')
 out = StringVar()
 
 '''The pw_generator function generates a random password based on the user's input for password length. 
