@@ -1,4 +1,4 @@
-# Codsoft-
+# Codsoft-Python
 Virtual internship tasks<br>
 
 # Python Programming
