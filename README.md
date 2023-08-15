@@ -5,7 +5,7 @@ Virtual internship tasks<br>
 Tasks Completed:<br>
     1. Random Password Generator<br>
     2. Quizz game<br>
-    3. Weather forecast<br>
+    3. Calculator<br>
 
 # GUI used is TKINTER 
 
